@@ -1,0 +1,4 @@
+1) Name your solution file for tryout 1 as tryout-1
+2) Name your solution file for tryout 2 as tryout-2
+
+You can upload a picture of hand drawn solution to Tryout 1 and 2 given in lesson 11 slides (Week 11) to this repository using the naming conventions provided above. Typed solution or diagrams drawn using computer is also accepted for submission.  
